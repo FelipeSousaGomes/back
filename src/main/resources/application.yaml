@@ -10,9 +10,9 @@ server:
 
 spring:
   datasource:
-    url: jdbc:mysql://localhost:3306/sportscenter
+    url: jdbc:mysql://viaduct.proxy.rlwy.net:38116/railway
     username: root
-    password: password
+    password: iRmCpygzEbnVVpIxAcTWlulbzhlKheBU
   application:
     name: SportsCenter
   jpa:
